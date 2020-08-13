@@ -5,4 +5,8 @@ It will also store the all your html form data in the database with track code. 
 
 # How it works
 
-When an email is sent,  and a link is clicked, its tracking information is counted in the database. It match trackcode in this link with trackcode that is stored in the database. if they match then database is updated..
+When an email is sent,  and a link is clicked, its tracking information is counted in the database. It match trackcode in this link with trackcode that is stored in the database. if they match then database is updated with ISseen variable is set.
+
+# Installation and Usage
+clone this repo:
+git clone https://github.com/Anurag-Kulhari/Email-Tracking
