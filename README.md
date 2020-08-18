@@ -1,6 +1,6 @@
 # Email-Tracking
 
-Email-Tracking  PHP script will allows  all outgoing emails from phpmailer script and inject a tracking code into the link. 
+Email-Tracking will allows  all outgoing emails from phpmailer script and will inject a tracking code into the link. 
 It will also store the all your html form data in the database with track code. There is also an interface to show your database and ISseen variable which tells particular email is open or not..
 
 # How it works
